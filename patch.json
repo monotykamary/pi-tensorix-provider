@@ -22,7 +22,8 @@
     "contextWindow": 1000000,
     "maxTokens": 131072,
     "compat": {
-      "thinkingFormat": "openai",
+      "thinkingFormat": "qwen-chat-template",
+      "requiresReasoningContentOnAssistantMessages": true,
       "supportsDeveloperRole": true,
       "supportsReasoningEffort": true
     }
