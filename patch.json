@@ -1,0 +1,222 @@
+{
+  "deepseek/deepseek-r1-0528": {
+    "reasoning": true,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "deepseek/deepseek-v3.2": {
+    "reasoning": true,
+    "contextWindow": 163840,
+    "maxTokens": 163840,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "deepseek/deepseek-v4-flash": {
+    "reasoning": true,
+    "contextWindow": 1000000,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "deepseek/deepseek-v4-pro": {
+    "reasoning": true,
+    "contextWindow": 1000000,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-4.7": {
+    "reasoning": true,
+    "contextWindow": 202752,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-5": {
+    "reasoning": true,
+    "contextWindow": 202752,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-5-turbo": {
+    "reasoning": true,
+    "contextWindow": 202752,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-5.1": {
+    "reasoning": true,
+    "contextWindow": 202752,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-5v-turbo": {
+    "reasoning": true,
+    "input": ["text", "image"],
+    "contextWindow": 202752,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "minimax/minimax-m2.5": {
+    "reasoning": true,
+    "contextWindow": 204800,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "minimax/minimax-m2.7": {
+    "reasoning": true,
+    "contextWindow": 204800,
+    "maxTokens": 131072,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "moonshotai/kimi-k2.5": {
+    "reasoning": true,
+    "input": ["text", "image"],
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "moonshotai/kimi-k2.6": {
+    "reasoning": true,
+    "input": ["text", "image"],
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "moonshotai/Kimi-K2.6": {
+    "reasoning": true,
+    "input": ["text", "image"],
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "qwen/qwen3-235b-a22b-2507": {
+    "reasoning": true,
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "qwen/qwen3-coder-30b-a3b-instruct": {
+    "reasoning": true,
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "qwen/qwen3-vl-235b-a22b-instruct": {
+    "reasoning": true,
+    "input": ["text", "image"],
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "qwen/qwen3.5-122b-a10b": {
+    "reasoning": true,
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "qwen/qwen3.5-9b": {
+    "reasoning": true,
+    "contextWindow": 262144,
+    "maxTokens": 262144,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "openai/gpt-oss-120b": {
+    "reasoning": true,
+    "contextWindow": 131072,
+    "maxTokens": 32768,
+    "compat": {
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "openai/gpt-oss-20b": {
+    "reasoning": true,
+    "contextWindow": 131072,
+    "maxTokens": 32768,
+    "compat": {
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "meta-llama/llama-4-maverick": {
+    "contextWindow": 1048576,
+    "maxTokens": 131072,
+    "reasoning": false
+  },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "contextWindow": 4096,
+    "maxTokens": 4096
+  }
+}

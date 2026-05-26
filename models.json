@@ -1,0 +1,514 @@
+[
+  {
+    "id": "chatterbox-turbo",
+    "name": "Chatterbox Turbo",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-chat-v3-0324",
+    "name": "Deepseek Chat V3 0324",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-chat-v3.1",
+    "name": "Deepseek Chat V3.1",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-r1-0528",
+    "name": "Deepseek R1 0528",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-v3.2",
+    "name": "Deepseek V3.2",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-v4-flash",
+    "name": "Deepseek V4 Flash",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "deepseek/deepseek-v4-pro",
+    "name": "Deepseek V4 Pro",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "meta-llama/llama-3.3-70b-instruct",
+    "name": "Llama 3.3 70b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "meta-llama/llama-4-maverick",
+    "name": "Llama 4 Maverick",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "minimax/minimax-m2",
+    "name": "Minimax M2",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "minimax/minimax-m2.1",
+    "name": "Minimax M2.1",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "minimax/minimax-m2.5",
+    "name": "Minimax M2.5",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "minimax/minimax-m2.7",
+    "name": "Minimax M2.7",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "mistralai/mixtral-8x22b-instruct",
+    "name": "Mixtral 8x22b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "moonshotai/kimi-k2.5",
+    "name": "Kimi K2.5",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "moonshotai/kimi-k2.6",
+    "name": "Kimi K2.6",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "moonshotai/Kimi-K2.6",
+    "name": "Kimi K2.6",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "nvidia/nemotron-3-super-120b-a12b",
+    "name": "Nemotron 3 Super 120b A12b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "openai/gpt-oss-120b",
+    "name": "Gpt Oss 120b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "openai/gpt-oss-20b",
+    "name": "Gpt Oss 20b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen-2.5-72b-instruct",
+    "name": "Qwen 2.5 72b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen3-235b-a22b-2507",
+    "name": "Qwen3 235b A22b 2507",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen3-coder-30b-a3b-instruct",
+    "name": "Qwen3 Coder 30b A3b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen3-vl-235b-a22b-instruct",
+    "name": "Qwen3 Vl 235b A22b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen3.5-122b-a10b",
+    "name": "Qwen3.5 122b A10b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "qwen/qwen3.5-9b",
+    "name": "Qwen3.5 9b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-4.6",
+    "name": "Glm 4.6",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-4.7",
+    "name": "Glm 4.7",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-5",
+    "name": "Glm 5",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-5-turbo",
+    "name": "Glm 5 Turbo",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-5.1",
+    "name": "Glm 5.1",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-5v-turbo",
+    "name": "Glm 5v Turbo",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  }
+]
