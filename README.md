@@ -1,6 +1,17 @@
-# pi-tensorix-provider
+<div align="center">
 
-A [pi](https://github.com/badlogic/pi-mono) extension that adds [Tensorix](https://tensorix.ai) as a custom model provider.
+# 🧮 pi-tensorix-provider
+
+**Free models during preview via [Tensorix](https://tensorix.ai)**
+
+_32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [pi](https://github.com/earendil-works/pi-coding-agent)._
+
+[![pi extension](https://img.shields.io/badge/pi-extension-blueviolet)](https://github.com/earendil-works/pi-coding-agent)
+[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+
+</div>
+
+---
 
 ## Features
 
