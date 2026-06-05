@@ -16,6 +16,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "deepseek-v4-flash-backup",
+    "name": "Deepseek V4 Flash Backup",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "deepseek/deepseek-chat-v3-0324",
     "name": "Deepseek Chat V3 0324",
     "reasoning": false,
