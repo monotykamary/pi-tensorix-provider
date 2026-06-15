@@ -224,6 +224,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "minimax/minimax-m3",
+    "name": "Minimax M3",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "moonshotai/kimi-k2.5",
     "name": "Kimi K2.5",
     "reasoning": false,

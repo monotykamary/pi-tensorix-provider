@@ -51,6 +51,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Minimax M2.1 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2.5 | 205K | ❌ | ✅ | **Free** | **Free** |
 | Minimax M2.7 | 205K | ❌ | ✅ | **Free** | **Free** |
+| Minimax M3 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Nemotron 3 Super 120b A12b | 4K | ❌ | ❌ | **Free** | **Free** |
 | Qwen 2.5 72b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3 235b A22b 2507 | 262K | ❌ | ✅ | **Free** | **Free** |
