@@ -288,6 +288,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "moonshotai/kimi-k2.7-code",
+    "name": "Kimi K2.7 Code",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "nvidia/nemotron-3-super-120b-a12b",
     "name": "Nemotron 3 Super 120b A12b",
     "reasoning": false,
@@ -498,6 +514,22 @@
   {
     "id": "z-ai/glm-5.1",
     "name": "Glm 5.1",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
+    "id": "z-ai/glm-5.2",
+    "name": "Glm 5.2",
     "reasoning": false,
     "input": [
       "text"

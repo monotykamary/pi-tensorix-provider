@@ -39,12 +39,14 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Glm 5 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 Turbo | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.1 | 203K | ❌ | ✅ | **Free** | **Free** |
+| Glm 5.2 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Glm 5v Turbo | 203K | ✅ | ✅ | **Free** | **Free** |
 | Gpt Oss 120b | 131K | ❌ | ✅ | **Free** | **Free** |
 | Gpt Oss 20b | 131K | ❌ | ✅ | **Free** | **Free** |
 | Kimi K2.5 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
+| Kimi K2.7 Code | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 3.3 70b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 4 Maverick | 1.0M | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2 | 131K | ❌ | ❌ | **Free** | **Free** |
