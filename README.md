@@ -49,6 +49,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Kimi K2.7 Code | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 3.3 70b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 4 Maverick | 1.0M | ❌ | ❌ | **Free** | **Free** |
+| Mimo V2.5 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2.1 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2.5 | 205K | ❌ | ✅ | **Free** | **Free** |
