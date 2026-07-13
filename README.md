@@ -45,7 +45,6 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Gpt Oss 20b | 131K | ❌ | ✅ | **Free** | **Free** |
 | Kimi K2.5 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
-| Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.7 Code | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 3.3 70b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
 | Llama 4 Maverick | 1.0M | ❌ | ❌ | **Free** | **Free** |
