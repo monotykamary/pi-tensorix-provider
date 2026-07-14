@@ -432,6 +432,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "tencent/hy3",
+    "name": "Hy3",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "xiaomi/mimo-v2.5",
     "name": "Mimo V2.5",
     "reasoning": false,
