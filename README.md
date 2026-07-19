@@ -27,14 +27,12 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Model | Context | Vision | Reasoning | Input $/M | Output $/M |
 |-------|---------|--------|-----------|-----------|------------|
 | Chatterbox Turbo | 131K | ❌ | ❌ | **Free** | **Free** |
-| Deepseek Chat V3 0324 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Deepseek Chat V3.1 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Deepseek R1 0528 | 131K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V3.2 | 164K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Flash | 1.0M | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Flash Backup | 131K | ❌ | ❌ | **Free** | **Free** |
 | Deepseek V4 Pro | 1.0M | ❌ | ✅ | **Free** | **Free** |
-| Glm 4.6 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Glm 4.7 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 Turbo | 203K | ❌ | ✅ | **Free** | **Free** |
@@ -47,16 +45,10 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Kimi K2.5 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.7 Code | 131K | ❌ | ❌ | **Free** | **Free** |
-| Llama 3.3 70b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
-| Llama 4 Maverick | 1.0M | ❌ | ❌ | **Free** | **Free** |
 | Mimo V2.5 | 131K | ❌ | ❌ | **Free** | **Free** |
-| Minimax M2 | 131K | ❌ | ❌ | **Free** | **Free** |
-| Minimax M2.1 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2.5 | 205K | ❌ | ✅ | **Free** | **Free** |
-| Minimax M2.7 | 205K | ❌ | ✅ | **Free** | **Free** |
 | Minimax M3 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Nemotron 3 Super 120b A12b | 4K | ❌ | ❌ | **Free** | **Free** |
-| Qwen 2.5 72b Instruct | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3 235b A22b 2507 | 262K | ❌ | ✅ | **Free** | **Free** |
 | Qwen3 Coder 30b A3b Instruct | 262K | ❌ | ✅ | **Free** | **Free** |
 | Qwen3 Vl 235b A22b Instruct | 262K | ✅ | ✅ | **Free** | **Free** |

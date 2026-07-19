@@ -32,22 +32,6 @@
     "maxTokens": 131072
   },
   {
-    "id": "deepseek/deepseek-chat-v3-0324",
-    "name": "Deepseek Chat V3 0324",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "deepseek/deepseek-chat-v3.1",
     "name": "Deepseek Chat V3.1",
     "reasoning": false,
@@ -128,88 +112,8 @@
     "maxTokens": 131072
   },
   {
-    "id": "meta-llama/llama-3.3-70b-instruct",
-    "name": "Llama 3.3 70b Instruct",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "meta-llama/llama-4-maverick",
-    "name": "Llama 4 Maverick",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "minimax/minimax-m2",
-    "name": "Minimax M2",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "minimax/minimax-m2.1",
-    "name": "Minimax M2.1",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "minimax/minimax-m2.5",
     "name": "Minimax M2.5",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "minimax/minimax-m2.7",
-    "name": "Minimax M2.7",
     "reasoning": false,
     "input": [
       "text"
@@ -336,22 +240,6 @@
     "maxTokens": 131072
   },
   {
-    "id": "qwen/qwen-2.5-72b-instruct",
-    "name": "Qwen 2.5 72b Instruct",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "qwen/qwen3-235b-a22b-2507",
     "name": "Qwen3 235b A22b 2507",
     "reasoning": false,
@@ -450,22 +338,6 @@
   {
     "id": "xiaomi/mimo-v2.5",
     "name": "Mimo V2.5",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "z-ai/glm-4.6",
-    "name": "Glm 4.6",
     "reasoning": false,
     "input": [
       "text"
