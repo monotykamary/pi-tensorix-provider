@@ -208,22 +208,6 @@
     "maxTokens": 131072
   },
   {
-    "id": "openai/gpt-oss-20b",
-    "name": "Gpt Oss 20b",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "qwen/qwen3-235b-a22b-2507",
     "name": "Qwen3 235b A22b 2507",
     "reasoning": false,
@@ -290,54 +274,6 @@
   {
     "id": "qwen/qwen3.5-9b",
     "name": "Qwen3.5 9b",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "tencent/hy3",
-    "name": "Hy3",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "xiaomi/mimo-v2.5",
-    "name": "Mimo V2.5",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "z-ai/glm-4.7",
-    "name": "Glm 4.7",
     "reasoning": false,
     "input": [
       "text"

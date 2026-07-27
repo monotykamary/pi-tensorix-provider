@@ -32,19 +32,15 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Deepseek V3.2 | 164K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Flash | 1.0M | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Pro | 1.0M | ❌ | ✅ | **Free** | **Free** |
-| Glm 4.7 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 Turbo | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.1 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.2 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Glm 5v Turbo | 203K | ✅ | ✅ | **Free** | **Free** |
 | Gpt Oss 120b | 131K | ❌ | ✅ | **Free** | **Free** |
-| Gpt Oss 20b | 131K | ❌ | ✅ | **Free** | **Free** |
-| Hy3 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Kimi K2.5 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.7 Code | 131K | ❌ | ❌ | **Free** | **Free** |
-| Mimo V2.5 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Minimax M2.5 | 205K | ❌ | ✅ | **Free** | **Free** |
 | Minimax M3 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Nemotron 3 Super 120b A12b | 4K | ❌ | ❌ | **Free** | **Free** |
