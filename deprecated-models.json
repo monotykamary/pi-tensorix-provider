@@ -1,1 +1,87 @@
-{}
+{
+  "deepseek/deepseek-chat-v3.1": {
+    "id": "deepseek/deepseek-chat-v3.1",
+    "name": "Deepseek Chat V3.1",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-08-01T02:00:23.121Z"
+  },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "id": "nvidia/nemotron-3-super-120b-a12b",
+    "name": "Nemotron 3 Super 120b A12b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-08-01T02:00:23.121Z"
+  },
+  "openai/gpt-oss-120b": {
+    "id": "openai/gpt-oss-120b",
+    "name": "Gpt Oss 120b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-08-01T02:00:23.121Z"
+  },
+  "qwen/qwen3-coder-30b-a3b-instruct": {
+    "id": "qwen/qwen3-coder-30b-a3b-instruct",
+    "name": "Qwen3 Coder 30b A3b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-08-01T02:00:23.121Z"
+  },
+  "qwen/qwen3-vl-235b-a22b-instruct": {
+    "id": "qwen/qwen3-vl-235b-a22b-instruct",
+    "name": "Qwen3 Vl 235b A22b Instruct",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-08-01T02:00:23.121Z"
+  }
+}

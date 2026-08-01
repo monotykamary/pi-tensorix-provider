@@ -16,22 +16,6 @@
     "maxTokens": 131072
   },
   {
-    "id": "deepseek/deepseek-chat-v3.1",
-    "name": "Deepseek Chat V3.1",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "deepseek/deepseek-r1-0528",
     "name": "Deepseek R1 0528",
     "reasoning": false,
@@ -192,72 +176,8 @@
     "maxTokens": 131072
   },
   {
-    "id": "nvidia/nemotron-3-super-120b-a12b",
-    "name": "Nemotron 3 Super 120b A12b",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "openai/gpt-oss-120b",
-    "name": "Gpt Oss 120b",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
     "id": "qwen/qwen3-235b-a22b-2507",
     "name": "Qwen3 235b A22b 2507",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "qwen/qwen3-coder-30b-a3b-instruct",
-    "name": "Qwen3 Coder 30b A3b Instruct",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0,
-      "output": 0,
-      "cacheRead": 0,
-      "cacheWrite": 0
-    },
-    "contextWindow": 131072,
-    "maxTokens": 131072
-  },
-  {
-    "id": "qwen/qwen3-vl-235b-a22b-instruct",
-    "name": "Qwen3 Vl 235b A22b Instruct",
     "reasoning": false,
     "input": [
       "text"
