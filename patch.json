@@ -38,16 +38,6 @@
       "supportsReasoningEffort": true
     }
   },
-  "z-ai/glm-4.7": {
-    "reasoning": true,
-    "contextWindow": 202752,
-    "maxTokens": 131072,
-    "compat": {
-      "thinkingFormat": "openai",
-      "supportsDeveloperRole": true,
-      "supportsReasoningEffort": true
-    }
-  },
   "z-ai/glm-5": {
     "reasoning": true,
     "contextWindow": 202752,
@@ -80,7 +70,10 @@
   },
   "z-ai/glm-5v-turbo": {
     "reasoning": true,
-    "input": ["text", "image"],
+    "input": [
+      "text",
+      "image"
+    ],
     "contextWindow": 202752,
     "maxTokens": 131072,
     "compat": {
@@ -99,19 +92,12 @@
       "supportsReasoningEffort": true
     }
   },
-  "minimax/minimax-m2.7": {
-    "reasoning": true,
-    "contextWindow": 204800,
-    "maxTokens": 131072,
-    "compat": {
-      "thinkingFormat": "openai",
-      "supportsDeveloperRole": true,
-      "supportsReasoningEffort": true
-    }
-  },
   "moonshotai/kimi-k2.5": {
     "reasoning": true,
-    "input": ["text", "image"],
+    "input": [
+      "text",
+      "image"
+    ],
     "contextWindow": 262144,
     "maxTokens": 262144,
     "compat": {
@@ -122,18 +108,10 @@
   },
   "moonshotai/kimi-k2.6": {
     "reasoning": true,
-    "input": ["text", "image"],
-    "contextWindow": 262144,
-    "maxTokens": 262144,
-    "compat": {
-      "thinkingFormat": "openai",
-      "supportsDeveloperRole": true,
-      "supportsReasoningEffort": true
-    }
-  },
-  "moonshotai/Kimi-K2.6": {
-    "reasoning": true,
-    "input": ["text", "image"],
+    "input": [
+      "text",
+      "image"
+    ],
     "contextWindow": 262144,
     "maxTokens": 262144,
     "compat": {
@@ -164,7 +142,10 @@
   },
   "qwen/qwen3-vl-235b-a22b-instruct": {
     "reasoning": true,
-    "input": ["text", "image"],
+    "input": [
+      "text",
+      "image"
+    ],
     "contextWindow": 262144,
     "maxTokens": 262144,
     "compat": {
@@ -202,22 +183,60 @@
       "supportsReasoningEffort": true
     }
   },
-  "openai/gpt-oss-20b": {
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "contextWindow": 4096,
+    "maxTokens": 4096
+  },
+  "deepseek/deepseek-v4-flash-0731": {
     "reasoning": true,
-    "contextWindow": 131072,
-    "maxTokens": 32768,
     "compat": {
+      "thinkingFormat": "openai",
       "supportsDeveloperRole": true,
       "supportsReasoningEffort": true
     }
   },
-  "meta-llama/llama-4-maverick": {
-    "contextWindow": 1048576,
-    "maxTokens": 131072,
-    "reasoning": false
+  "minimax/minimax-m3": {
+    "reasoning": true,
+    "input": [
+      "text",
+      "image"
+    ],
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
   },
-  "nvidia/nemotron-3-super-120b-a12b": {
-    "contextWindow": 4096,
-    "maxTokens": 4096
+  "moonshotai/kimi-k2.7-code": {
+    "reasoning": true,
+    "input": [
+      "text",
+      "image"
+    ],
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "moonshotai/kimi-k3": {
+    "reasoning": true,
+    "input": [
+      "text",
+      "image"
+    ],
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
+  },
+  "z-ai/glm-5.2": {
+    "reasoning": true,
+    "compat": {
+      "thinkingFormat": "openai",
+      "supportsDeveloperRole": true,
+      "supportsReasoningEffort": true
+    }
   }
 }
