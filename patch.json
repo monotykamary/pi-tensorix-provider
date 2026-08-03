@@ -225,6 +225,15 @@
       "text",
       "image"
     ],
+    "thinkingLevelMap": {
+      "off": null,
+      "minimal": null,
+      "low": "low",
+      "medium": null,
+      "high": "high",
+      "xhigh": null,
+      "max": "max"
+    },
     "compat": {
       "thinkingFormat": "openai",
       "supportsDeveloperRole": true,
