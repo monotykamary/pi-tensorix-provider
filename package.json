@@ -1,6 +1,6 @@
 {
   "name": "pi-tensorix-provider",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "packageManager": "pnpm@11.18.0",
   "description": "Tensorix provider extension for pi - Access DeepSeek, GLM, Kimi, Qwen, MiniMax, Llama, and more through the Tensorix API",
   "type": "module",
