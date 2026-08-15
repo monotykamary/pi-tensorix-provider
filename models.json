@@ -240,6 +240,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "qwen/qwen3.8-27b",
+    "name": "Qwen3.8 27b",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "z-ai/glm-5",
     "name": "Glm 5",
     "reasoning": false,

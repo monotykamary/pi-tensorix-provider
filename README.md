@@ -46,6 +46,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Qwen3.5 122b A10b | 262K | ❌ | ✅ | **Free** | **Free** |
 | Qwen3.5 9b | 262K | ❌ | ✅ | **Free** | **Free** |
 | Qwen3.8 2.4t A95b | 131K | ❌ | ❌ | **Free** | **Free** |
+| Qwen3.8 27b | 131K | ❌ | ❌ | **Free** | **Free** |
 
 ## Installation
 
