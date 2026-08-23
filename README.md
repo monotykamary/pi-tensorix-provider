@@ -29,7 +29,6 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Chatterbox Turbo | 131K | ❌ | ❌ | **Free** | **Free** |
 | Deepseek R1 0528 | 131K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V3.2 | 164K | ❌ | ✅ | **Free** | **Free** |
-| Deepseek V4 Flash | 1.0M | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Flash 0731 | 131K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Pro | 1.0M | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 | 203K | ❌ | ✅ | **Free** | **Free** |
