@@ -35,6 +35,8 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Glm 5 Turbo | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.1 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.2 | 131K | ❌ | ✅ | **Free** | **Free** |
+| Glm 5.3 | 131K | ❌ | ❌ | **Free** | **Free** |
+| Glm 5.3 Flash | 131K | ❌ | ❌ | **Free** | **Free** |
 | Glm 5v Turbo | 203K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.5 | 262K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K2.6 | 262K | ✅ | ✅ | **Free** | **Free** |
@@ -47,6 +49,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Qwen3.5 9b | 262K | ❌ | ✅ | **Free** | **Free** |
 | Qwen3.8 2.4t A95b | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3.8 27b | 131K | ❌ | ❌ | **Free** | **Free** |
+| Qwen3.8 Flash Next | 131K | ❌ | ❌ | **Free** | **Free** |
 
 ## Installation
 
