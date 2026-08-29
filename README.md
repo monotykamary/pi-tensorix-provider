@@ -31,6 +31,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Deepseek V3.2 | 164K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Flash 0731 | 131K | ❌ | ✅ | **Free** | **Free** |
 | Deepseek V4 Pro | 1.0M | ❌ | ✅ | **Free** | **Free** |
+| Deepseek V4 Pro 0813 | 131K | ❌ | ❌ | **Free** | **Free** |
 | Glm 5 | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5 Turbo | 203K | ❌ | ✅ | **Free** | **Free** |
 | Glm 5.1 | 203K | ❌ | ✅ | **Free** | **Free** |

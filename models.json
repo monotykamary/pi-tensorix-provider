@@ -80,6 +80,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "deepseek/deepseek-v4-pro-0813",
+    "name": "Deepseek V4 Pro 0813",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "minimax/minimax-m2.5",
     "name": "Minimax M2.5",
     "reasoning": false,
