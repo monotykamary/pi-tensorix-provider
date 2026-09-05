@@ -1,6 +1,6 @@
 {
   "name": "pi-tensorix-provider",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Tensorix provider extension for pi - Access DeepSeek, GLM, Kimi, Qwen, MiniMax, Llama, and more through the Tensorix API",
   "type": "module",
   "main": "index.ts",
@@ -30,5 +30,8 @@
     "extensions": [
       "./index.ts"
     ]
+  },
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "0.85.1"
   }
 }
