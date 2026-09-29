@@ -176,7 +176,8 @@ function transformApiModel(apiModel: any): JsonModel | null {
   const skipIds = new Set(["qwen/qwen3-embedding-8b", "Systran/faster-whisper-large-v3"]);
   if (skipIds.has(apiModel.id)) return null;
 
-  const id = apiModel.id;
+  const id: unknown = apiModel.id;
+  if (typeof id !== "string" || id.length === 0) return null;
   const parts = id.split("/");
   const rawName = parts.length > 1 ? parts.slice(1).join("/") : id;
 
