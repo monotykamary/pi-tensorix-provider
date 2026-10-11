@@ -21,6 +21,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 - **Tool use** - Function calling support
 - **Streaming** - Real-time token streaming
 - **Free tier** - All models available at no cost during preview
+- **Quiet live model sync** - Models refresh from the Tensorix API in the background, at most hourly and by one pi process at a time ([details](#model-sync))
 
 ## Available Models
 
@@ -117,6 +118,7 @@ Get your API key from [tensorix.ai](https://tensorix.ai).
 | Variable | Required | Description |
 |----------|----------|-------------|
 | `TENSORIX_API_KEY` | No | Your Tensorix API key (fallback if not in auth.json) |
+| `PI_PROVIDER_SYNC_TTL_MS` | No | Model sync freshness window in ms (default `3600000`; `0` = revalidate every session start) |
 
 ## Configuration
 
@@ -165,6 +167,20 @@ Tensorix provides an OpenAI-compatible API proxy. Key notes:
 > **Note:** The Tensorix `/v1/models` endpoint only returns model IDs — no pricing,
 > context lengths, or reasoning flags. `patch.json` provides these based on
 > known model specifications and E2E testing.
+
+## Model sync
+
+Startup never waits on the network. pi starts with the cached catalog (`~/.pi/agent/cache/tensorix-models.json`,
+falling back to the bundled `models.json`) and revalidates against `/v1/models` in the background — only when:
+
+- a Tensorix API key is configured (no key, no request),
+- the cache is older than 1 hour, missing, or was fetched with a different API key, and
+- no other pi process is already refreshing it (a `tensorix-models.lock` file next to the cache).
+
+So `/new`, `/reload`, `pi -p` and fan-out child agents share one cache instead of each calling the API; a
+session that skips the fetch still picks up a cache another process refreshed. A failed refresh is retried after
+5 minutes at the earliest. `PI_PROVIDER_SYNC_TTL_MS` changes the window (`0` revalidates on every session start).
+Only a hash fingerprint of the key is stored (`tensorix-models.sync.json`), never the key itself.
 
 ## API Documentation
 
