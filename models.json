@@ -64,6 +64,22 @@
     "maxTokens": 131072
   },
   {
+    "id": "deepseek/deepseek-v4.1-flash-1017",
+    "name": "Deepseek V4.1 Flash 1017",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072
+  },
+  {
     "id": "minimax/minimax-m3",
     "name": "Minimax M3",
     "reasoning": false,
