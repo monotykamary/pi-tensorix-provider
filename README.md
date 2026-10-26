@@ -38,6 +38,7 @@ _32 models — DeepSeek, Kimi, GLM, Qwen, MiniMax, Llama — all **free** for [p
 | Kimi K2.7 Code | 131K | ✅ | ✅ | **Free** | **Free** |
 | Kimi K3 | 131K | ✅ | ✅ | **Free** | **Free** |
 | Minimax M3 | 131K | ✅ | ✅ | **Free** | **Free** |
+| Minimax M3.1 Flash | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3.8 2.4t A95b | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3.8 27b | 131K | ❌ | ❌ | **Free** | **Free** |
 | Qwen3.8 Flash Next | 131K | ❌ | ❌ | **Free** | **Free** |
