@@ -1,1 +1,36 @@
-{}
+{
+  "minimax/minimax-m3": {
+    "id": "minimax/minimax-m3",
+    "name": "Minimax M3",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-11-03T06:31:52.027Z"
+  },
+  "qwen/qwen3.8-flash-next": {
+    "id": "qwen/qwen3.8-flash-next",
+    "name": "Qwen3.8 Flash Next",
+    "reasoning": false,
+    "input": [
+      "text"
+    ],
+    "cost": {
+      "input": 0,
+      "output": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0
+    },
+    "contextWindow": 131072,
+    "maxTokens": 131072,
+    "deprecatedAt": "2026-11-03T06:31:52.027Z"
+  }
+}
