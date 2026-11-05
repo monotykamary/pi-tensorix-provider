@@ -96,8 +96,8 @@
     "maxTokens": 131072
   },
   {
-    "id": "moonshotai/kimi-k2.7-code",
-    "name": "Kimi K2.7 Code",
+    "id": "moonshotai/kimi-k3",
+    "name": "Kimi K3",
     "reasoning": false,
     "input": [
       "text"
@@ -112,8 +112,8 @@
     "maxTokens": 131072
   },
   {
-    "id": "moonshotai/kimi-k3",
-    "name": "Kimi K3",
+    "id": "moonshotai/kimi-k3.1-pro",
+    "name": "Kimi K3.1 Pro",
     "reasoning": false,
     "input": [
       "text"
